@@ -9,6 +9,6 @@ Nice responsive login and registration form using Html, Css and JavaScript. Chan
 No contributors so far
 
 ## Technologies used
-* HTML
+* HTML.
 * SCSS.
 * JAVASCRIPT.
