@@ -10,5 +10,5 @@ No contributors so far
 
 ## Technologies used
 * HTML
-* SCSS
+* SCSS.
 * JAVASCRIPT.
