@@ -12,3 +12,4 @@ No contributors so far
 * HTML.
 * SCSS.
 * JAVASCRIPT.
+## License
